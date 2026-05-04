@@ -7,7 +7,7 @@ updates:
     cooldown:
       default-days: 3
   - package-ecosystem: npm
-    directory: /
+    directory: /tests
     schedule:
       interval: weekly
     cooldown:
