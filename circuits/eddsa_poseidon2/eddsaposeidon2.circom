@@ -16,7 +16,7 @@
     You should have received a copy of the GNU General Public License
     along with circom. If not, see <https://www.gnu.org/licenses/>.
 */
-pragma circom 2.0.0;
+pragma circom 2.2.2;
 
 // This file is copied from https://github.com/iden3/circomlib/blob/master/circuits/eddsaposeidon.circom and adapted to use Poseidon2 instead of Poseidon and use a more standard cofactored verification.
 
