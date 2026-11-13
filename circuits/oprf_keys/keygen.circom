@@ -1,4 +1,4 @@
-pragma circom 2.0.0;
+pragma circom 2.2.2;
 
 include "babyjubjub/babyjubjub.circom";
 include "poseidon2/poseidon2.circom";
